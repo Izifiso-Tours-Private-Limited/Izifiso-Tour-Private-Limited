@@ -55,9 +55,9 @@ We build scalable digital systems connecting **travelers**, **hosts**, and **adm
 
 | Name                  | Role                  | GitHub |
 |-----------------------|------------------------|--------|
-| Saikat Bhadury        | Founder / Tech Lead    | @info2programmer    |
-| Neha Ray Choudhury    | Lead                   | @neharaychaudhury   |
-| Titash Dutta          | Developer              | @titashdatta958-svg |
+| Saikat Bhadury        | Tech Lead              | @info2programmer    |
+| Neha Ray Chaudhury    | Lead                   | @neharaychaudhury   |
+| Titash Datta          | Developer              | @titashdatta958-svg |
 
 ---
 
