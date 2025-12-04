@@ -20,9 +20,6 @@ We build scalable systems connecting travelers, hosts, and admins through automa
 
 
 
-📊 GitHub Stats
-
-(These automatically update for your organization once placed in the README)
 
 
 
