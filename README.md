@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Izifiso-Tours-Private-Limited/Izifiso-Tour-Private-Limited/main/logo.png" width="180" />
+  <img src="[https://raw.githubusercontent.com/Izifiso-Tours-Private-Limited/Izifiso-Tour-Private-Limited/main/logo.png](https://avatars.githubusercontent.com/u/247793722?s=400&u=2a76fd03b0f9055d35504bd177e43ac92ea0d17d&v=4)" width="180" />
 </p>
 
 <h1 align="center">Izifiso Tours Private Limited</h1>
@@ -56,7 +56,7 @@ We build scalable digital systems connecting **travelers**, **hosts**, and **adm
 | Name                  | Role                  | GitHub |
 |-----------------------|------------------------|--------|
 | Saikat Bhadury        | Founder / Tech Lead    | @info2programmer    |
-| Neha Ray Choudhury    | Developer              | @neharaychaudhuryw  |
+| Neha Ray Choudhury    | Developer              | @neharaychaudhury   |
 | Titash Dutta          | Developer              | @titashdatta958-svg |
 
 ---
